@@ -1,3 +1,4 @@
+
 export function media(numeros: number[]){
     let media, r = 0;
     numeros.forEach(function (item) {
